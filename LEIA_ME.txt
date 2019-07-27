@@ -1,0 +1,33 @@
+﻿		Orange Store
+--------------------------------------------------------------
+O site é e-commerce de periféricos de computador
+--------------------------------------------------------------
+ Construído com
+    -> Materialize - O framework web usado
+    -> Adobe Xd- Conceito do site
+    -> Atom- Editor de texto
+    -> Firebase- Servidor de hospedagem
+
+ Estrutura do site
+     --- Topo:
+           -> Ícone e nome da aplicação
+           -> Barra de pesquisa 
+               (filtra produtos da área de produtos)
+           -> Ícone de carrinho de compras
+               (Abre modal com a lista dos produtos)
+     --- Área de produtos
+           -> Barra de categorias
+               (filtra produtos da área de produtos)
+           -> Botão de comprar
+               (Adiciona produtos no modal carrinho de 
+               compras)
+     --- Rodapé
+          -> Apenas Visual 
+  Responsividade
+     --- Funcional
+
+  O site tá online  
+     --- Link -> https://orange-store-5d09d.firebaseapp.com
+  Autor
+    --- Gabriel L Ribeiro
+--------------------------------------------------------------
